@@ -1,2 +1,2 @@
 # shimuniv
-A bootloader shim for loading an ELF
+A universal bootloader payload shim for loading an ELF
